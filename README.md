@@ -2,8 +2,7 @@
 
 Process.py is solution to below mentioned problem
 survey.csv is survey dataset
-
-Problem
+Problem---
 You have a csv data from the recently conducted survey. You need to write code that reads the given csv file, processes its content and provides a summary of the data, as shown in the 'output' section below.
 Running the command should give the following tabular output in the cli:
 
