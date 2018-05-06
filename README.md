@@ -8,6 +8,7 @@ You have a csv data from the recently conducted survey. You need to write code t
 Running the command should give the following tabular output in the cli:
 
 | District	   | Female	| Male	| Total |
+|---|---|---|---|
 | gorkha	     | 15	    | 28	  |  43   |
 | morang	     |  1	    |  2	  |   3   |
 | nawalparasi	 |  4	    |  3	  |   7   |
